@@ -2,10 +2,11 @@
 
 ## Commande de base
 
-Italique = _mots_ ou *mots* 
-Majuscule = __mots__ ou **mots**
-cumule = _**mots**_
-"#" Titre
+Italique = _mots_ ou *mots*  
+Majuscule = __mots__ ou **mots**  
+cumule = _**mots**_  
+"#" Titre  
+saut à ligne = 2 espaces
 
 ## Lien/Image
 
