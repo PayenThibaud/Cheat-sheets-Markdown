@@ -2,18 +2,18 @@
 
 ## Commande de base
 
-Italique = _mots_ ou *mots*  
-Majuscule = __mots__ ou **mots**  
-cumule = _**mots**_  
+_Italique_ = _mots_ ou *mots*  
+**Gras** = __mots__ ou **mots**  
+**_cumule_** = **_mots_**  
 "#" Titre  
-saut à ligne = 2 espaces
+saut à ligne = 2 espaces  
 
-## Lien/Image
+## Lien/Image  
 
-lien = [mots]: https://
-     = [mots](https://)
+lien = [mots]: https://  
+     = [mots](https://)  
 
-Image = ![mots](https://)
+Image = ![mots](https://)  
 
 ## Commande avancé
 
@@ -30,7 +30,7 @@ Image = ![mots](https://)
 
 - Citation :
 
-> Je me cite
+> Je me cite  
 ">
 
 - Code :
@@ -38,9 +38,11 @@ Image = ![mots](https://)
 ```js
 i = 1+i;
 B = A + B + i;
-```
-" ```js
-```"
+```  
+
+"```js"
+i = 1+i;
+"```"
 
 - Ligne :
 
