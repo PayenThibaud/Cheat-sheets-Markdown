@@ -49,7 +49,7 @@ i = 1+i;
 ---
 "---
 
-- Tables :
+- Tableau :
 
 "| mots | mots | 
 "|------|------|
