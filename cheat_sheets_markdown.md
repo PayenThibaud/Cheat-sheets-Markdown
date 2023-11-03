@@ -1,9 +1,10 @@
-# Commande markdown
+# Cheat sheets markdown
 
 ## Commande de base
 
-_Italique_ = _mots_ ou *mots*  
-**Gras** = __mots__ ou **mots**  
+
+_Italique_ = `_mots_ ou *mots*  `  
+**Gras** = `__mots__ ou **mots**`  
 **_cumule_** = **_mots_**  
 "#" Titre  
 saut à ligne = 2 espaces  
