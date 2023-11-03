@@ -1,6 +1,6 @@
 # Cheat sheets markdown
 
-## Commande de base  
+## Style d'écriture    
 
 
 _Italique_ = `_mots_ ou *mots*  `  
@@ -17,36 +17,41 @@ saut à ligne = 2 espaces
   
 `<img src="https://...jpg" alt="nom" width="taille"/>`  
     
-## Commande avancé  
-
-- Liste :
-
-"- mots
-"12- mots
-
+## Liste  
+  
+- mot
+  - mot2
+  - mot3
 - ABC
-  - 123
-- 123
-  - ABC
-  - 456
+  - 123  
 
-- Citation :
-
+```js
+- mot
+  - mot2
+  - mot3
+- ABC
+  - 123  
+```  
+  
+## Citation  
+  
 > Je me cite  
-">
-
-- Code :
-
+  
+`> je me cite`  
+  
+## Code  
+  
 ```js
 i = 1+i;
 B = A + B + i;
 ```  
-
-"```js"
+  
+> ```js
 i = 1+i;
-"```"
-
-- Ligne :
+B = A + B + i;
+```  
+  
+## Ligne 
 
 ---
 "---
