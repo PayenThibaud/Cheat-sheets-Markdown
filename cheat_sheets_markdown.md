@@ -13,11 +13,11 @@ saut à ligne = 2 espaces
   
 [lien](https://github.com/PayenThibaud/Cheat-sheets-Markdown/blob/main/cheat_sheets_markdown.md) = `[lien](https://)`  
   
-<img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71kI6NWISgL._AC_UF1000,1000_QL80_.jpg" alt="stardust" width="100"/> = 
-
-`<img src="https://...jpg" alt="nom" width="taille"/>`  
+<img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71kI6NWISgL._AC_UF1000,1000_QL80_.jpg" alt="stardust" width="100"/>   
   
-## Commande avancé
+`<img src="https://...jpg" alt="nom" width="taille"/>`  
+    
+## Commande avancé  
 
 - Liste :
 
