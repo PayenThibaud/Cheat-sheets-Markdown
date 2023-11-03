@@ -67,11 +67,11 @@ B = A + B + i;
   
 ## case à cocher  
 
-- [x] 
-- [ ] 
+- [x] coché
+- [ ] pas coché
 
 
 ```js
-- [x]
-- [ ] 
+- [x] mot
+- [ ] mot
 ```  
