@@ -1,18 +1,17 @@
 # Cheat sheets markdown
 
-## Commande de base
+## Commande de base  
 
 
 _Italique_ = `_mots_ ou *mots*  `  
 **Gras** = `__mots__ ou **mots**`  
-**_cumule_** = **_mots_**  
+**_cumule_** = `**_mots_**`  
 "#" Titre  
 saut à ligne = 2 espaces  
-
+  
 ## Lien/Image  
-
-lien = [mots]: https://  
-     = [mots](https://)  
+  
+[lien](https://github.com/PayenThibaud/Cheat-sheets-Markdown/blob/main/cheat_sheets_markdown.md) = `[lien](https://)`  
 
 Image = ![mots](https://)  
 
