@@ -53,18 +53,22 @@ B = A + B + i;
 ## Ligne 
 
 ---
-"---
-
-- Tableau :
-
-"| mots | mots | 
-"|------|------|
-
+`---`  
+  
+## Tableau  
+  
 | mots | mots | 
 |------|------|
+  
+```js
+| mots | mots | 
+|------|------|
+```  
+  
+## case à cocher  
 
-'[ ] 
+[ ] 
 [ ]
 
-' [x]
+[x]
 [x]
