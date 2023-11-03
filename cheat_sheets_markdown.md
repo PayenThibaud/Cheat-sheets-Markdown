@@ -12,10 +12,9 @@ saut à ligne = 2 espaces
 ## Lien/Image  
   
 [lien](https://github.com/PayenThibaud/Cheat-sheets-Markdown/blob/main/cheat_sheets_markdown.md) = `[lien](https://)`  
-
-Image = ![stardust](https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71kI6NWISgL._AC_UF1000,1000_QL80_.jpg)  
-
-<img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71kI6NWISgL._AC_UF1000,1000_QL80_.jpg" alt="drawing" width="200"/>
+  
+<img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71kI6NWISgL._AC_UF1000,1000_QL80_.jpg" alt="drawing" width="200"/>  
+  
 ## Commande avancé
 
 - Liste :
