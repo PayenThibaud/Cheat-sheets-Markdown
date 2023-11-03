@@ -46,9 +46,8 @@ i = 1+i;
 B = A + B + i;
 ```  
   
-> ```js
-i = 1+i;
-B = A + B + i;
+```js
+```js  ``` or `code`
 ```  
   
 ## Ligne 
