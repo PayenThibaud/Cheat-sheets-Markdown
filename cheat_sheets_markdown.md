@@ -67,8 +67,16 @@ B = A + B + i;
   
 ## case à cocher  
 
-- [x]
-- [ ] 
+- [x] Installation Linux (WSL pour Windows)
+- [x] Création et/ou configuration Mail pro
+- [x] Alimentation Discord (intégrer au moins une communauté sur sa stack par exemple : "ES Community" pour JavaScript)
+- [x] Découverte de VS Code
+- [x] Comprendre le web (Openclassrooms) (optionnel pour les débutants complets)
+- [x] Comprendre l'intérêt des raccourcis clavier
+- [x] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
+  - [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  - [x] Terminal (fenêtres, onglets, …)
+
 
 ```js
 - [x]
